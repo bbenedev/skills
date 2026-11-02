@@ -12,6 +12,8 @@ negocios/
     llamadas-en-frio/
       pyme-b2b-argentina/
     manejar-objeciones-despues-del-precio/
+conocimiento/
+  personas/    expedientes con evidencia para sumar "simulaciones" de personas reales
 ingenieria/
   agentes/      cómo escribirle una tarea a un agente, revisar lo que hizo, mostrar su actividad
   datos/        guardar sin perder nada nunca
