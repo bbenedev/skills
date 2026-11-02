@@ -12,6 +12,8 @@ negocios/
     llamadas-en-frio/
       pyme-b2b-argentina/
     manejar-objeciones-despues-del-precio/
+  operaciones/
+    ficha-del-negocio-para-agentes/   ← lo que los agentes tienen que saber antes de hablar con un cliente
 conocimiento/
   personas/    expedientes con evidencia para sumar "simulaciones" de personas reales
 ingenieria/
