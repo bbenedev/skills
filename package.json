@@ -1,0 +1,7 @@
+{
+  "name": "skills",
+  "private": true,
+  "type": "module",
+  "description": "Biblioteca de skills para agentes, de lo general a una situación concreta.",
+  "scripts": { "test": "node tools/validar.mjs", "instalar": "node tools/instalar.mjs" }
+}
